@@ -2,5 +2,9 @@
   {
     "key": "green",
     "bound": "1"
+  },
+  {
+    "key": "voidman",
+    "bound": null
   }
 ]
